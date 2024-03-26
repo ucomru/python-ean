@@ -191,7 +191,7 @@ class Ean13:
         top = 0
         width = 220
         height = 160  # 118
-        light = "#FFDDEE"  # '#FFFFFF'
+        light = '#FFFFFF' # filling bg
         dark = "#000000"
         bar_heigh = height - top - 18
         sep_heigh = bar_heigh + 10  # +18 | +10 | 0

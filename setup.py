@@ -6,8 +6,8 @@ from pathlib import Path
 
 setup(
     name="ean",
-    version="0.0.1",
-    description="python-ean is a python module to create EAN13 (ISBN) .svg barcode",
+    version="0.0.2",
+    description="ean is a python module to create EAN13 (ISBN) .svg barcode",
     author="Timur U",
     author_email="ucomru@pm.me",
     url="https://github.com/ucomru/python-ean",
