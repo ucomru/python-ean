@@ -1,0 +1,18 @@
+
+# Environments
+.env
+.venv/
+.venv.bak/
+
+# Mac-OS
+.DS_Store
+__MACOSX/
+
+# Distribution
+*.pyc
+build/
+*.egg-info/
+__pycache__/
+
+# Sphinx documentation
+docs/_build/
